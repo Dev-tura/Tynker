@@ -1,0 +1,45 @@
+.faq-text p:hover {
+  color: greenyellow;
+}
+.faq-text {
+  margin-left: 400px;
+  margin-bottom: 182px;
+}
+.faq-text h1 {
+  margin-bottom: 5px;
+}
+.textdecor {
+  text-decoration: none;
+}
+.cookies-text {
+  width: 210px;
+  color: grey;
+  font-size: 15px;
+}
+.cookies {
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+  width: 270px;
+  height: 150px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+}
+.cookies-popup {
+  background-color: #81d8d0;
+  width: 80px;
+  height: 35px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  font-size: 10px;
+  margin-right: 10px;
+}
+.faqfooter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #2d3e50;
+}
